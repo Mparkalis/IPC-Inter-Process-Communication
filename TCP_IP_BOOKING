@@ -1,1 +1,3 @@
-
+The server program will perform the work of the electronic
+ticket reservation system and will be able to serve one customer at a time (No
+a new process needs to be created to serve each customer).
